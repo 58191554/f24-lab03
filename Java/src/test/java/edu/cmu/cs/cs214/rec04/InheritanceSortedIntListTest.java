@@ -16,6 +16,7 @@ public class InheritanceSortedIntListTest {
      * Uncomment the following code to test your implementation 
      * Select all and (CTRL + /) or (COMMAND + /)
      * Feel free to write more tests for your implementation. 
+     * 
      * */
 
     private InheritanceSortedIntList list1;
